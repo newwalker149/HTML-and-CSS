@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8">
+	<title> My Website </title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+	<header>
+		<h1> My Website </h1>
+	</header>
+	<div class="Navigation">
+	   <h2> Navigation </h2>
+	   <ul>
+		<li> Home </li>
+		<li> About </li>
+		<li> Contact </li>
+	    </ul>
+	</div>
+	<div class="main">
+	    <h2> Main Page </h2>
+	    <p>  At Starbuzz Coffee, we are dedicated to filling all your  caffeine needs through our 
+        quality coffees and teas. Sure, we want you to have a great cup of coffee and a great 
+        coffee experience as well, but we're the only company that actively monitors and 
+        optimizes caffeine levels. So stop by and fill your cup, or order online with our new Bean 
+        Machine online order form, and get that quality Starbuzz coffee that you know will meet 
+        your caffeine standards. </p>
+	    <p>
+        "A man, a plan, a coffee bean". Okay, that doesn't make a palindrome, but it resulted
+        in a damn good cup of coffee.  Starbuzz's CEO is that man, and you already know his 
+        plan: a Starbuzz on every corner.
+	    </p> 
+	    <p>In only a few years he's executed that plan and today 
+        you can enjoy Starbuzz just about anywhere.  And, of course, the big news this year 
+        is that Starbuzz teamed up with Head First readers to create Starbuzz's Web presence,  
+        which is growing rapidly and helping to meet the caffeine needs of a whole new set of 
+        customers.  
+	    </p>
+	</div>
+    <footer>
+      &copy; 2012, Starbuzz Coffee
+      <br>
+      All trademarks and registered trademarks appearing on 
+      this site are the property of their respective owners.
+    </footer>
+	</body>
+	</html>

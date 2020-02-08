@@ -1,0 +1,43 @@
+body {
+	background-color	: #EEE
+	
+}
+
+#container {
+	padding			: 10px; 
+	background-color	: white;
+	width			: 800px;
+	margin-left		: auto;
+	margin-right		: auto;
+	font-family		: sans-serif;
+
+}
+
+#header {
+	background-color	: #66ccff;
+	color			: white;
+	text-align		: center;
+	font-family		: sans-serif;
+	
+}
+
+#content {
+	padding			: 10px;
+}
+
+#nav {
+	float			: left;
+	width			: 180px;	
+
+}
+
+#main {
+	float			: right;
+	width			: 600px;
+}
+
+#footer {
+	clear			: both;
+	text-align		: right;
+	background-color	: grey;
+}
